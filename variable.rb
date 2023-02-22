@@ -9,3 +9,10 @@ amount_paid = 1200.50
 
 current_member = false
 on_trial = true
+
+email = "jimmy@aim.com"
+cell_phone = "7035283443"
+
+puts email 
+puts account_balance 
+puts zip_code
